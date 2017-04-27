@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    
+    <array name="color_picker_colors_array">
+        <item>@color/red</item>
+        <item>@color/green</item>
+        <item>@color/blue</item>
+        <item>@color/white</item>
+        <item>@color/black</item>
+    </array>
+
+</resources>
